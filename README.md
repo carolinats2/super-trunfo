@@ -11,6 +11,8 @@ Funcionalidades
     float densidade1 = populacao1 / area1;
     float pib_per_capita1 = (pib1 * 1000000000) / populacao1;
 
+   
+
 Cálculos:
  // ======= CARTA 2 =======
     char estado2[3], codigo2[4], nome2[50];
