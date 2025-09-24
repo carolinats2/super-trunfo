@@ -6,6 +6,7 @@ Funcionalidades
     char estado1[3], codigo1[4], nome1[50];
     int populacao1, pontos_turisticos1;
     float area1, pib1;
+   
 
     float densidade1 = populacao1 / area1;
     float pib_per_capita1 = (pib1 * 1000000000) / populacao1;
